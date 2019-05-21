@@ -11,5 +11,5 @@
   </ul>
 </p>
 <p>Pré-visualização:</p>
-<img src="https://raw.githubusercontent.com/Luizfening/SistemaVendas/master/Screenshot_44.png?token=AMD47EBVOCQSJHERICHWYP244OCQQ" alt="Calculadora executando">
+<img src="https://github.com/Luizfening/SistemaVendas/blob/master/Screenshot_44.png" alt="Calculadora executando">
 
