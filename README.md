@@ -1,6 +1,6 @@
 <h1>Sistemas de Vendas</h1>
 <p>Autor: Luiz Ricardo Oliveira<br>E-mail: feninglol@gmail.com</p>
-<p>Aplicação desenvolvida para fins próprios sem fins lucrativos.</p>
+<p>Aplicação desenvolvida para uso próprio sem fins lucrativos.</p>
 <p>Ferramentas utilizadas:
   <ul>
     <li>Java 1.8.0_111</li>
@@ -11,5 +11,5 @@
   </ul>
 </p>
 <p>Pré-visualização:</p>
-<img src="https://github.com/Luizfening/SistemaVendas/blob/master/Screenshot_44.png" alt="Calculadora executando">
+<img src="https://github.com/Luizfening/SistemaVendas/blob/master/Screenshot_44.png" alt="imagem pronta">
 
