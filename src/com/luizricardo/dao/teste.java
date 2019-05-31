@@ -10,12 +10,5 @@ package com.luizricardo.dao;
  * @author Luiz
  */
 public class teste {
- 
     
-    
-    
-    
-    
-    asdasdasd
-    teste do github
 }
